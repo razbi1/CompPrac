@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(675,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(676,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(677,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(678,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(679,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(679,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyForm1.cpp
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(675,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(676,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(677,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(678,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(679,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\ComputationalPracticum\MyForm1.h(679,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ComputationalPracticum.vcxproj -> C:\Users\razbe\OneDrive\Рабочий стол\дифуры\ComputationalPracticum\x64\Debug\ComputationalPracticum.exe
